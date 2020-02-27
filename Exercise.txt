@@ -1,0 +1,5 @@
+Terminal is another way to control your files.
+
+Git is a tool and resource and Github is a source you use to be able  to upload and share.
+
+You use Github to collab with others 
